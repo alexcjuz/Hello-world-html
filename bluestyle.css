@@ -1,0 +1,23 @@
+body {
+  background-color: #e0f2f7; /* A light blue background */
+  color: #333366; /* Dark blue text color */
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #0000ff; /* Pure blue for headings */
+  text-align: center;
+}
+
+.button {
+  background-color: #4CAF50; /* A green button for contrast */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.container {
+  border: 1px solid #add8e6; /* Light blue border */
+  padding: 15px;
+}
